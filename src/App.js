@@ -28,7 +28,7 @@ class App extends React.Component {
       <Game logOutUser={() => this.logInUser(false)} />
       )
     } 
-}
+  }
 
 
 export default App;
